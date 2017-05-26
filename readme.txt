@@ -4,3 +4,8 @@ Git has a mutable index called stage;
 Git tracks changes
 WULALA
 dev
+Creating a new branch is quick & simple
+dev
+Switched to a new branch 'dev'
+
+
